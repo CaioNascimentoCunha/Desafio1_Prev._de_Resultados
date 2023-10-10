@@ -1,4 +1,4 @@
-# Painel gerencial de um e-commerce para o estuda de Vendas
+# Painel gerencial de um e-commerce para o estudo de Vendas
 
 Esse painel foi desafio proposto durante meu estudo de Regressão Linear e aprofundamento em PowerBI.
 
